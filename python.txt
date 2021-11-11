@@ -1,0 +1,10 @@
+a=[7,3,10,5]
+print(a)
+print(len(a))
+print(max(a))
+print(sum(a))
+print(min(a))
+a.sort()
+print(a)
+a.append(8)
+print(*a)
